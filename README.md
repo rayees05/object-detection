@@ -1,1 +1,1 @@
-# vechicle-detection
+# object-detection
